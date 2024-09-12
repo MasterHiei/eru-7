@@ -1,0 +1,31 @@
+{
+  "cSpell.words": [
+    "zustand"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "files.autoSave": "off",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "prettier.requireConfig": true,
+  "tailwindCSS.experimental.classRegex": [
+    "tw`([^`]*)",
+    "tw\\([^)]*\\)",
+    "className=\"([^\"]*)\"",
+    "className={`([^`}]*?)}",
+    "class=\\\"([^\"]*)\\\""
+  ]
+}
